@@ -4207,6 +4207,7 @@ body.search-is-visible {
  * ## hero social
  * ------------------------------------------------------------------- */
 .s-hero__social {
+    visibility: hidden; /* remove or alter html comment in index if you change visibility */
     font-size: var(--text-xs);
     font-weight: 400;
     color: white;
