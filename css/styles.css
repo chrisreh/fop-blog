@@ -4869,14 +4869,14 @@ body.search-is-visible {
  * -------------------------------------- */
 
  .s-footer__social-links {
-    visibility: hidden;
+    visibility: hidden; /* delete or alter html comment in index if you change visibility here*/
  }
 
 /* footer subscribe
  * -------------------------------------- */
 .s-footer__subscribe {
     margin-left: auto;
-    visibility: hidden;
+    visibility: hidden; /* delete or alter html comment in index if you change visibility here*/
 }
 
 .s-footer__subscribe p {
