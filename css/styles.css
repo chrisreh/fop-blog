@@ -4865,6 +4865,13 @@ body.search-is-visible {
     color: black;
 }
 
+/* footer social links
+ * -------------------------------------- */
+
+ .s-footer__social-links {
+    visibility: hidden;
+ }
+
 /* footer subscribe
  * -------------------------------------- */
 .s-footer__subscribe {
