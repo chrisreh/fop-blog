@@ -3808,6 +3808,7 @@ body.search-is-visible {
  * ## search triggers
  * ------------------------------------------------------------------- */
 .s-header__search-trigger {
+    visibility: hidden;
     width: 4rem;
     height: 4rem;
     display: -ms-flexbox;
