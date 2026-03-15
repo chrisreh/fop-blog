@@ -5059,6 +5059,7 @@ body.search-is-visible {
 .comments-wrap {
     padding-bottom: var(--vspace-4);
     background-color: white;
+    display: none;
 }
 
 .comments-wrap h3 {
